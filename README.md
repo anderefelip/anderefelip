@@ -1,6 +1,6 @@
 ### André Gouvêa
 I'm learning program
-### Hi there:v:
+### Hi there :v:
 <!--
 **anderefelip/anderefelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
