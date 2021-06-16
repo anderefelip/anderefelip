@@ -1,5 +1,5 @@
 ### André Gouvêa
-I'm learning program
+E aí galera, sou um dev jr a procura de respostas do universo e tudo mais
 ### Hi there :v:
 <!--
 **anderefelip/anderefelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
