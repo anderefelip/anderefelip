@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 | -->
 [![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andregouveaf@gmail.com)](mailto:andregouveaf@gmail.com)
 - :milky_way:  &nbsp; To infinity and beyond
+
+### Essas são as linguagens e frameworks que trabalho:
+
+- Python
+- Typescript
+- Node.js
+- ReactJS
+- DB SQL
