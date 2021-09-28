@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Essas são as linguagens/frameworks que trabalho e estou aprendendo:
 
 - Python
-- Typescript
+- Javascript
 - Node.js
 - ReactJS
 - DB SQL
