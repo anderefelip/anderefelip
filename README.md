@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 
 ### Essas são as linguagens/frameworks que trabalho e estou aprendendo:
 
-- Python
+#Fe
+- HTML
+- CSS
 - Javascript
-- Node.js
 - ReactJS
-- DB SQL
+
+#Be
+- Python
+- Db (SQlite, PostgreSQL)
+- node.js
