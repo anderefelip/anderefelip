@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - Python
 - Db (SQlite, PostgreSQL)
 - node.js
+
+#...
+- Power BI
