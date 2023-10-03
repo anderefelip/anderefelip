@@ -1,5 +1,5 @@
 ### André Gouvêa
-E aí galera, Analista Fiscal que gosta de codar e estou a procura de respostas do universo e tudo mais
+E aí galera, Fiscal que gosta de codar e estou a procura de respostas do universo e tudo mais
 ### Hello there :v:
 <!--
 **anderefelip/anderefelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
