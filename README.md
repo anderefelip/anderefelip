@@ -1,5 +1,5 @@
 ### André Gouvêa
-E aí galera, Analista Fiscal que gosta de codar
+E aí galera, Analista Fiscal que gosta de codar/n
 Co-CEO da InteliGENTE, Soluções Juridicas com IA
 ### Hello there :v:
 <!--
