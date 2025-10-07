@@ -1,5 +1,6 @@
 ### André Gouvêa
 E aí galera, Analista Fiscal que gosta de codar
+Co-CEO da InteliGENTE, Soluções Juridicas com IA
 ### Hello there :v:
 <!--
 **anderefelip/anderefelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
